@@ -1,0 +1,12 @@
+Fri Oct 15 14:26:27 EEST 2021 : 95E: 12 litraa tankattu.
+Fri Oct 15 14:28:50 EEST 2021 : 98E: 42 litraa tankattu.
+Fri Oct 15 14:29:04 EEST 2021 : Diesel: 21 litraa tankattu.
+Fri Oct 15 14:31:07 EEST 2021 : Diesel: 21 litraa tankattu.
+Fri Oct 15 14:53:23 EEST 2021 : 98E: 458 litraa tankattu.
+Fri Oct 15 15:15:52 EEST 2021 : 95E: 2 litraa tankattu.
+Fri Oct 15 15:34:11 EEST 2021 : 95E: 12 litraa tankattu.
+Fri Oct 15 15:37:26 EEST 2021 : Diesel:  858 litraa tankattu.
+Fri Oct 15 15:45:53 EEST 2021 : 98E: 54 litraa tankattu.
+Fri Oct 15 15:57:21 EEST 2021 : 95E:  50 litraa tankattu.
+Fri Oct 15 16:05:08 EEST 2021 : Diesel: 25 litraa tankattu.
+Fri Oct 15 16:37:40 EEST 2021 : 98E: 245 litraa tankattu.
